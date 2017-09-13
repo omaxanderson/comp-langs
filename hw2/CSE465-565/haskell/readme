@@ -1,0 +1,7 @@
+all:	sample
+
+sample:
+	gch sample.hs
+
+clean:
+	rm sample

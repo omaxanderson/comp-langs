@@ -1,0 +1,2 @@
+make
+/usr/bin/valgrind -v ./memory

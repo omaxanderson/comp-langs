@@ -1,0 +1,5 @@
+make
+./str1
+gprof a.out
+./str2
+gprof a.out
